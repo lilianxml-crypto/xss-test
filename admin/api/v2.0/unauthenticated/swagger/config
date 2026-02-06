@@ -1,8 +1,1 @@
-{
-  "urls": [
-    {
-      "url": "data:application/json,{\"openapi\":\"3.0.1\",\"info\":{\"title\":\"<img src=x onerror=alert(document.domain)>\",\"version\":\"1.0.0\"},\"paths\":{}}",
-      "name": "XSS"
-    }
-  ]
-}
+{"openapi":"3.0.1","info":{"title":"<form><math><mtext></form><form><mglyph><style></math><img src onerror=alert(document.domain)>","version":"1.0.0"},"paths":{}}
