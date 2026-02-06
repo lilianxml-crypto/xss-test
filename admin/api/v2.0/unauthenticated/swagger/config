@@ -1,1 +1,1 @@
-{"openapi":"3.0.1","info":{"title":"Test","version":"1.0.0"},"paths":{"/test":{"get":{"summary":"<img src=x onerror=alert(document.domain)>","description":"<img src=x onerror=alert(document.domain)>","responses":{"200":{"description":"<img src=x onerror=alert(document.domain)>"}}}}}}
+{"openapi":"3.0.1","info":{"title":"Test","version":"1.0.0"},"paths":{"/test":{"get":{"summary":"<img src=x onerror=alert(document.domain)>","description":"test","responses":{"200":{"description":"ok"}}}}}}
