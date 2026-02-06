@@ -1,1 +1,1 @@
-{"openapi":"3.0.1","info":{"title":"Test","version":"1.0.0"},"paths":{"/test":{"get":{"summary":"<form><math><mtext></form><form><mglyph><svg><mtext><style><path id=\"</style><img src onerror=alert(document.domain)>\">","responses":{"200":{"description":"ok"}}}}}}
+{"openapi":"3.0.1","info":{"title":"Test","version":"1.0.0"},"paths":{"/test":{"get":{"summary":"<iframe srcdoc=\"<script>alert(document.domain)</script>\">","responses":{"200":{"description":"ok"}}}}}}
